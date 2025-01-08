@@ -1,2 +1,3 @@
 Hey myself bob!!
 i am 21 
+changes are done in feature1 for divergent merging
