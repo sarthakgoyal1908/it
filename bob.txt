@@ -5,3 +5,4 @@ changes are done in feature1 for divergent merging
 RYFGFU
 EHF
 gfdecuye1fwcyu3rfg
+Add text in bob for interactive rebase.
